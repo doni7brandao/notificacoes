@@ -39,7 +39,7 @@
                 iconUrl: "https://cdn.pushcrew.com/img/logos/c87259bbff2ed55f77ebdcfdb2a31c82/6a934c1e-721a-4cc7-8b32-9f999b5cdec0.png",
                 allowTextChildWindow: "Click on \'Allow\' to confirm push notifications",
                 offerTextChildWindow: "Get updates and offers from Prefeitura Municipal de Baixa Grande do Ribeiro by subscribing to push notifications.",
-                chicketText: "Get Notifications",
+                chicketText: "Enviar Notificações",
                 chickletBgColor: "#4D9DE0",
                 chickletTextColor: "#FFFFFF",
                 chickletPosition: "tr",
