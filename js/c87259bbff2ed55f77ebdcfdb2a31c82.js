@@ -41,7 +41,7 @@
                 offerTextChildWindow: "Receba atualizações da Prefeitura Municipal de Baixa Grande do Ribeiro assinando as Notificações.",
                 chicketText: "Receber Notificações",
                 chickletBgColor: "#0A67A2",
-                chickletTextColor: "#FFFFFF",
+                chickletTextColor: "#F7D358",
                 chickletPosition: "tr",
                 chromeTitle: "ct1",
                 chromeSubtitle: "ct2",
